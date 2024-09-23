@@ -1,6 +1,6 @@
 # 리눅스 환경에서 Average Load 실습
 
-학습 목적 : Load의 avg에 대한 이해
+**학습 목적 : 리눅스 시스템에서 Average Load에 대한 이해!**
 
 <h2 style="font-size: 25px;"> TEAM 👨‍👨‍👧 <br>
 </h2>
