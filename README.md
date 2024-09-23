@@ -2,6 +2,17 @@
 
 학습 목적 : Load의 avg에 대한 이해
 
+<h2 style="font-size: 25px;"> TEAM 👨‍👨‍👧 <br>
+</h2>
+
+|<img src="https://avatars.githubusercontent.com/u/81280628?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/86951396?v=4" width="100" height="100"/>
+|:-:|:-:|
+|[@손대현](https://github.com/DaeHyeonSon)|[@이아영](https://github.com/ayleeee)|
+---
+<br>
+
+
+
 ### 개요 🚩
 
 리눅스 환경에서 CPU 및 I/O 부하 실험을 통해 Average Load와 성능 모니터링에 대해 이해하며, 이를 통해 시스템 부하를 관리하는 방법을 학습하고자 한다. 
